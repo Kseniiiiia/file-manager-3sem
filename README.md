@@ -16,12 +16,12 @@
 
 ## Команды
 
-connect [Address] [-m Mode] - подключение к файловой системе
-disconnect - отключение от файловой системы
-tree goto [Path] - переход в указанный каталог
-tree list {-d Depth} - просмотр содержимого каталога
-file show [Path] {-m Mode} - просмотр содержимого файла
-file move [Source] [Destination]- перемещение файла
-file copy [Source] [Destination]- копирование файла
-file delete [Path] - удаление файла
-file rename [Path] [Name] - переименование файла
+- connect [Address] [-m Mode] - подключение к файловой системе
+- disconnect - отключение от файловой системы
+- tree goto [Path] - переход в указанный каталог
+- tree list {-d Depth} - просмотр содержимого каталога
+- file show [Path] {-m Mode} - просмотр содержимого файла
+- file move [Source] [Destination]- перемещение файла
+- file copy [Source] [Destination]- копирование файла
+- file delete [Path] - удаление файла
+- file rename [Path] [Name] - переименование файла
